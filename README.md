@@ -1,2 +1,2 @@
 # glance-cue
-Teleprompter-Notest
+Teleprompter-Notes
